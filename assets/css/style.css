@@ -239,7 +239,25 @@ img.resize {
 }
 
 @media screen and (max-width:768px) {
+    .top a.name {
+        float: none;
+        width: 100%;
+    }
 
+    .top a.about {
+        float: none;
+        width: 100%;
+    }
+
+    .top a.contact {
+        float: none;
+        width: 100%;
+    }
+
+    .top a.portfolio {
+        float: none;
+        width: 100%;
+    }
 }
 
 @media screen and (max-width:640px) {
